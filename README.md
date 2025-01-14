@@ -23,9 +23,9 @@ A powerful Telegram music bot for voice chats with features like YouTube, Spotif
 [![Deploy on Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC)
 
 ### 🖇 VPS Deployment
-- Clone repo: `git clone https://github.com/THE-VIP-BOY-OP/VIP-MUSIC && cd VIP-MUSIC`
+- Clone repo: `git clone https://github.com/WangLinXMusic/VIP-MUSIC && cd VIP-MUSIC`
 - Setup by: `bash setup`
-- Fill [Extra Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
+- Fill [Extra Variables](https://github.com/WangLinXMusic/VIP-MUSIC/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
 - Install tmux: `sudo apt install tmux && tmux`
 - Run the bot: `bash start`
 - To exit tmux session: Press `Ctrl+b` and then `d`
@@ -45,14 +45,14 @@ Optional variables:
 - `SPOTIFY_CLIENT_SECRET` - Spotify client secret
 - `HEROKU_API_KEY` - Heroku API key
 - `HEROKU_APP_NAME` - Heroku app name
-See [**config docs**](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/config%2FREADME.md) for full list of variables
+See [**config docs**](https://github.com/WangLinXMusic/VIP-MUSIC/blob/master/config%2FREADME.md) for full list of variables
 
 ### 🤝 Support
 - Join [**VIP_CREATORS**](https://t.me/VIP_CREATORS) for updates
 - Join [**TG_FRIENDSS**](https://t.me/TG_FRIENDSS) for support
 
 ### 📃 License
-This project is licensed under the [**MIT License**](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/LICENSE)
+This project is licensed under the [**MIT License**](https://github.com/WangLinXMusic/VIP-MUSIC/blob/master/LICENSE)
 
 ### 🙋‍♂️ Credits
 - [**THE VIP BOY**]()
